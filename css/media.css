@@ -1,5 +1,119 @@
  /*Extra small devices (portrait phones, less than 576px)*/
-@media (max-width: 575.98px) { ... }
+@media (max-width: 575.98px) { 
+    /*balance start*/
+.hq {
+    margin-top: 0;
+    font-weight: 700;
+    font-size: 60px;
+}
+.hq2 {
+    font-size: 18px;
+    margin-top: 25px;
+}
+.s_btn {
+    margin-top: 5%;
+}
+    /*balance end*/
+    /*Pregnant start*/
+    .b_content{
+    padding: 20% 0%;
+}
+.x {
+    font-size: 331%;
+    margin-top: -70px;
+    font-weight: 700;
+}
+.y {
+    font-size: 20px;
+    margin-top: 20px;
+}
+    /*Pregnant end*/
+    /*Yoga start*/
+    .t {
+    font-weight: 700;
+    font-size: 59px;
+    margin-top: 78px;
+}
+.t_btn {
+    margin-top: 20px;
+}
+    /*Yoga end*/
+    /*Join start*/
+    .jq {
+    font-weight: 700;
+    font-size: 350%;
+    margin-top: -25%;
+}
+.jw {
+    font-size: 22px;
+}
+    /*Join end*/
+    /*Galery start*/
+    .k {
+    margin-top: 15%;
+    font-weight: 700;
+    text-align: center;
+    font-size: 77px;
+}
+    .w {
+    margin-top: 25px;
+    font-size: 20px;
+}
+    .i_content {
+    margin-top: 28px;
+    padding: 0 0;
+}
+    /*Galery end*/
+    /*yoga start*/
+    .yoga_img {
+    padding: 0 0;
+    margin-top: 45px;
+}
+    .cs {
+    font-weight: 700;
+    margin-top: 0;
+    font-size: 330%;
+}
+    .lp {
+    margin-top: 13px;
+    font-size: 22px;
+    margin-bottom: 16px;
+}
+    .s_icon {
+    /* padding: 0 0 20%; */
+    margin-bottom: 16%;
+    margin-top: 12%;
+}
+    /*yoga end*/
+    /*from start*/
+    .f_t {
+    margin-top: 20%;
+    font-size: 348%;
+}
+    .f_p {
+    margin-top: 8%;
+    font-size: 97%;
+}
+    .send-btn {
+    margin-left: 18%;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: -35px;
+}
+    /*from end*/
+    /*footer start*/
+    .call {
+    text-align: center;
+    margin-bottom: 30px;
+}
+    .c_icon {
+    padding: 0 19px;
+}
+    /*footer end*/
+
+   
+
+ }
 
  /*Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) and (max-width: 767.98px) { ... }
@@ -9,6 +123,7 @@
     /*Pregnant start*/
 .x {
     margin-top: -108px;
+    font-weight: 700;
 }
 .y {
     font-size: 22px;
