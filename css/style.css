@@ -1,0 +1,305 @@
+body{
+	font-family: sans-serif;
+	color: #434E5B;
+}
+/*header start*/
+.c_nav{
+	margin: 25px 15px;
+}
+.menu{}
+.menu ul li a{
+	font-size: 20px;
+	font-family: sans-serif;
+	margin-right: 70px;
+}
+.menu ul li a:hover{
+	color: #F1C9C4 !important;
+}
+/*header end*/
+/*Balance start*/
+.banner{
+	background-image: url(../logo/body-01.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-position: top center;
+
+
+}
+
+.b_content{
+    padding: 20% 10%;
+}
+
+h1{
+	margin-top: 40px;
+    font-weight: 700;
+    font-size: 70px;
+}
+
+h3{
+	font-size: 20px;
+    margin-top: 65px;
+}
+p{
+	margin-top: 65px;
+}
+
+.s_btn{
+	border-radius: 0;
+	font-size: 20px;
+	font-weight: 700;
+	text-transform: uppercase;
+	width: 200px;
+	height: 50px;
+	margin-top: 90px;
+	background-color: #F1C9C4;
+	color: #434E5B;
+	transition: .5s;
+}
+.btn:focus {
+    outline: 0;
+    box-shadow: none;
+}
+.s_btn:hover{
+	background-color: #C9CDD1;
+	color: white;
+}
+/*Balance end*/
+/*Pregnant start*/
+.banner2{
+    background-image: url(../logo/body-02.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-position: top center;
+}
+.x{
+	margin-top: 70px;
+}
+.y{
+	font-size: 20px;
+	margin-top: 80px;
+}
+/*Pregnant end*/
+
+.banner3{
+	margin-top: 80px;
+	 text-align: center;
+}
+p{
+	font-size: 20px;
+	margin-top: 0px;
+}
+h5{
+	font-size: 25px;
+	font-weight: 700;
+}
+.proa{
+	margin-top: 55px;
+}
+.prob{
+	margin-top: 33px;
+}
+.proc{
+	margin-top: 50px;
+}
+.pro1 {
+
+	margin-top: 26px;
+}
+.pro2{
+	margin-top: 1px;
+}
+.pro3{
+	margin-top: -30px;
+}
+/*program end*/
+/*Yoga start*/
+.pic{
+	margin-top: 100px;
+    background-image: url(../logo/body-03.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-position: top center;
+}
+.d_content{
+	padding: 0 0;
+}
+.t{
+    font-weight: 700;
+    font-size: 64px;
+    margin-top: 105px;
+}
+.p{
+	 font-size: 18px;
+}
+.t_btn{
+	border-radius: 0;
+	font-size: 20px;
+	font-weight: 700;
+	text-transform: uppercase;
+	width: 200px;
+	height: 50px;
+	margin-top: 190px;
+	background-color: #F1C9C4;
+	color: #434E5B;
+	transition: .5s;
+}
+.t_btn:focus {
+    outline: 0;
+    box-shadow: none;
+}
+.t_btn:hover{
+	background-color: #C9CDD1;
+	color: white;
+}
+/*Yoga end*/
+/*Join start*/
+.sho{
+	margin-top: 100px;
+    background-image: url(../logo/body-04.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-position: top center;
+}
+/*Join end*/
+/*galery start*/
+.gelery{
+	margin-top: 100px;
+    background-image: url(../logo/body-05.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-position: top center;
+}
+.k {
+    text-align: center;
+    font-size: 80px;
+}
+.w {
+    text-align: center;
+    margin-top: 45px;
+    font-size: 30px;
+}
+.b_single{
+	width: 33.33%;
+	float: left;
+}
+.b_img{}
+.b_img img{
+	width: 100%;
+}
+.i_content{
+	margin-top: 55px;
+	text-align: center;
+	padding: 0 48px ;
+	overflow: hidden;
+}
+/*galery end*/
+/*Yoga Training start*/
+.yoga{
+	background-color: #EFCDC7;
+}
+.yoga_img{
+	padding: 0px 90px;
+	margin-top: 140px;
+}
+.y_content {
+    padding: 0 70px;
+}
+.cs{
+	margin-top: 185px;
+}
+.lp{
+	margin-top: 40px;
+	font-size: 23px;
+    margin-bottom: 50px;
+}
+.s_icon{
+
+}
+.s_icon a {
+    margin-right: 45px;
+}
+/*Yoga Training end*/
+/*from start*/
+.from{
+	margin-top: 100px;
+    background-image: url(../logo/body-07.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-position: top center;
+}
+.container2 {
+    padding: 0px 20% 10%;
+}
+.f_t {
+    margin-top: 90px;
+    text-align: center;
+}
+.f_p {
+    margin-top: 40px;
+    text-align: center;
+}
+.send-btn{
+	margin-left: 40%;
+	border-radius: 0;
+	font-size: 20px;
+	font-weight: 700;
+	text-transform: uppercase;
+	width: 200px;
+	height: 50px;
+	margin-top: 70px;
+	margin-bottom: 100px;
+	background-color: #F1C9C4;
+	color: #434E5B;
+	transition: .5s;
+}
+.send-btn:focus {
+    outline: 0;
+    box-shadow: none;
+}
+.send-btn:hover{
+	border: 1px #F1C9C4 ;
+	background-color: white;
+	color: black;
+}
+.form-control:focus {
+    outline: 0;
+    box-shadow: none;
+}
+.form-control{
+	border-radius: 0;
+}
+.c_sms{
+	resize: none;
+}
+
+/*from end*/
+/*footer start*/
+.footer{
+	background-color: #434e5b;
+}	
+.f_text li a{
+	color: white;
+	transition: .5s;
+}
+.f_text li a:hover{
+	color: #efcdc7;
+	font-size: 20px;
+}
+.c_icon{}
+.c_icon li i{
+	font-size: 40px;
+}
+/*footer end*/

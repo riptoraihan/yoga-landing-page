@@ -1,0 +1,101 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { ... }
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { ... }
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    /*Pregnant start*/
+.x {
+    margin-top: -108px;
+}
+.y {
+    font-size: 22px;
+    margin-top: 43px;
+    color: #d22a2ac7;
+}    
+    /*Pregnant end*/
+ }
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    /*Balance start*/
+    h1{
+            font-size: 54px;
+            margin-right: -30px;
+    }
+    h3 {
+    font-size: 16px;
+    margin-top: 33px;
+}
+.s_btn {
+    margin-top: 20px;
+}
+     /*Balance end*/
+     /*Pregnant start*/
+.y {
+    font-size: 16px;
+    margin-top: 30px;
+}
+
+     /*Pregnant end*/
+     /*yoga start*/
+
+.t {
+    font-weight: 700;
+    font-size: 45px;
+    margin-top: 56px;
+}     
+.p {
+    font-size: 14px;
+}
+.t_btn {
+    margin-top: 75px;
+}
+
+    /*yoga end*/
+    /*join start*/
+h3 {
+    font-size: 14px;
+    margin-top: 20px;
+}    
+    /*join end*/
+    /*galery start*/
+.w {
+    margin-top: 20px;
+    font-size: 16px;
+}    
+    /*galery end*/
+    /*yoga training start*/
+.y_content {
+    padding: 0 150px;
+}
+.yoga_img {
+    padding: 0px 0;
+    margin-top: 165px;
+}
+h1 {
+    font-size: 28px;
+}
+.lp {
+    margin-top: 16px;
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+.s_icon {
+    padding: 7px 120px;
+}
+.s_icon a {
+    margin-right: -103px;
+}
+    /*yoga training end*/
+}
+
+/*Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    
+
+}
+ /*Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) { ... }
